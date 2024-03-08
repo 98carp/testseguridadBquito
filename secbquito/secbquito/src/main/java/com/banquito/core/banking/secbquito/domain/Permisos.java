@@ -10,7 +10,7 @@ import java.time.LocalDate;
 
 @Builder
 @Entity
-@Table(name = "PERMISOS")
+@Table(name = "PERMISOS_test")
 @AllArgsConstructor
 @NoArgsConstructor
 public class Permisos {
